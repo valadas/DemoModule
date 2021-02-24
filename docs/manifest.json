@@ -1,0 +1,2726 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/websites/990/Website/DesktopModules/DemoModule/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Common.Globals.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Common.Globals.html",
+          "hash": "GowaWgQA/Y1+TzWeMQSI5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Common.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Common.html",
+          "hash": "KJ7pDyRRTrBQZ2T1+Hl2tg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Controllers.ItemController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Controllers.ItemController.html",
+          "hash": "TKbA3sZVtOkBJnArxo1mJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Controllers.LocalizationController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Controllers.LocalizationController.html",
+          "hash": "PXHyvFAZohLZwIR1qZvQiw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Controllers.ModuleApiController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Controllers.ModuleApiController.html",
+          "hash": "X/NF1Vya74qEDz9PgQIcCQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Controllers.ServiceRouteMapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Controllers.ServiceRouteMapper.html",
+          "hash": "lTpgW2SiIfZcbvW2F1PN4Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Controllers.html",
+          "hash": "AssZHygS4cNPFUE35zHQhA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.DTO.CreateItemDTO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.DTO.CreateItemDTO.html",
+          "hash": "gWc7QBtFo3dqWOEDi7ja8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.DTO.GetItemsPageDTO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.DTO.GetItemsPageDTO.html",
+          "hash": "RR5cw/HxV5ErWnc6antuUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.DTO.UpdateItemDTO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.DTO.UpdateItemDTO.html",
+          "hash": "y3YnbGooHJjw/2TBJ2hJ3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.DTO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.DTO.html",
+          "hash": "OLRuLOgLLomLT2SO2Q7bdw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Data.Entities.BaseEntity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Data.Entities.BaseEntity.html",
+          "hash": "fkXKACP9YfOFzUVqXNc3Zg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Data.Entities.IEntity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Data.Entities.IEntity.html",
+          "hash": "0TpW3opHmqW18QSgKfeCjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Data.Entities.Item.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Data.Entities.Item.html",
+          "hash": "5Fpe3NF4arHJKFxPJBij8g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Data.Entities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Data.Entities.html",
+          "hash": "Wd5iF+PvXUQmew+vCXqEkg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Data.ModuleDbContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Data.ModuleDbContext.html",
+          "hash": "SX8AJPnNxI1+34XnE2wXSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Data.Repositories.IRepository-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Data.Repositories.IRepository-1.html",
+          "hash": "H5WFhuLgnxVK2YeXYq80BA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Data.Repositories.Repository-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Data.Repositories.Repository-1.html",
+          "hash": "dq8c9VXrSFJHv6qMKJnQHQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Data.Repositories.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Data.Repositories.html",
+          "hash": "6hqZSemHcdFPobQcgadFCQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Data.html",
+          "hash": "8U0Yzg2bMQtvATCtZNXa/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Services.IItemService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Services.IItemService.html",
+          "hash": "wyhfm6pBEAoPS3oCX2svhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Services.ILocalizationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Services.ILocalizationService.html",
+          "hash": "5z4McwBJGcW28J1pgF0IQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Services.ItemService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Services.ItemService.html",
+          "hash": "Ej2Koqtw8+n9qG1LvF5sUA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Services.LocalizationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Services.LocalizationService.html",
+          "hash": "BxuBnDI0zXXNT/DpEpu5LA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Services.html",
+          "hash": "ZZwd5FekseEO9TsrAWCgsA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.Startup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.Startup.html",
+          "hash": "DtZjC5sFtSUBoVsxN0hd8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.ViewModels.ItemViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.ViewModels.ItemViewModel.html",
+          "hash": "VpWRySvG9lt1UKroXuKmsg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.ViewModels.ItemsPageViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.ViewModels.ItemsPageViewModel.html",
+          "hash": "YH5NXXsUVFRRZYSeYCmajA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.ViewModels.LocalizationViewModel.ModelValidationInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.ViewModels.LocalizationViewModel.ModelValidationInfo.html",
+          "hash": "39Ag0jEKA+nudsRBj7o/Kg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.ViewModels.LocalizationViewModel.UIInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.ViewModels.LocalizationViewModel.UIInfo.html",
+          "hash": "nlfePSiQwB68KoHYBi/8Ww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.ViewModels.LocalizationViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.ViewModels.LocalizationViewModel.html",
+          "hash": "X3kX3ODD20bPXhksTWNxAg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.ViewModels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.ViewModels.html",
+          "hash": "kLWwuM9gOVJuT0uH12sioA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DnnSummit.Modules.DemoModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DnnSummit.Modules.DemoModule.html",
+          "hash": "UZadRobgjsTgo5sT7YC55w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "7/poq02BoRu2jCYufncggA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "UidNotFound"
+      ],
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "3i3fLa0HtIwbnNf2/c6VJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/git.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/git.html",
+          "hash": "deVggKsD5YT2UrxcimXWkg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "e3NOUsOez2O6fHHQ5iHXhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/project-architecture.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/project-architecture.html",
+          "hash": "i37OYYRZliyuz4l6SB4dJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "E2zehL9R44b3qURfeD5rTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.apiexception._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.apiexception._constructor_.html",
+          "hash": "gPckkNRymz98t3IUbwL7ag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.apiexception.headers.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.apiexception.headers.html",
+          "hash": "wEak6SjZud8fcXj+KFnrGg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.apiexception.isapiexception.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.apiexception.isapiexception.html",
+          "hash": "NBBT26LNojSwfkopFJW5rA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.apiexception.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.apiexception.html",
+          "hash": "l7HSESpf2dFuD7j0H2frvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.apiexception.message.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.apiexception.message.html",
+          "hash": "631P6f2vS66B0JPU7DYrcA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.apiexception.response.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.apiexception.response.html",
+          "hash": "z6Q8jBzUF55z60o0DLvmUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.apiexception.result.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.apiexception.result.html",
+          "hash": "TDOGvhIVif7Qmbzg+/OD6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.apiexception.status.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.apiexception.status.html",
+          "hash": "LTWszyscMUKeHazjdem5Gw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.argumentexception._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.argumentexception._constructor_.html",
+          "hash": "XtzTxYyB7h4Bqh8Q0WioFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.argumentexception.fromjs.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.argumentexception.fromjs.html",
+          "hash": "95JbM7OheDvaSF+1ib1Pyg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.argumentexception.init.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.argumentexception.init.html",
+          "hash": "UAzPoMYOioywl8tsSZYgIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.argumentexception.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.argumentexception.html",
+          "hash": "nsZuhRGu9GHHB44wzEOLeQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.argumentexception.message.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.argumentexception.message.html",
+          "hash": "kfJadcdqHA8+4rw/xYEHZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.argumentexception.paramname.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.argumentexception.paramname.html",
+          "hash": "CkZQww+gCX6+j0JSUXQZxQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.argumentexception.tojson.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.argumentexception.tojson.html",
+          "hash": "e7EtbKpybSXZIXIgEWFQHw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.clientbase._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.clientbase._constructor_.html",
+          "hash": "BQ7YPJq3FV5RQEltk9fdxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.clientbase.getbaseurl.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.clientbase.getbaseurl.html",
+          "hash": "2Fc0hyGn635i7ThtjYJhWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.clientbase.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.clientbase.html",
+          "hash": "oCk9knxzQRlIPLULDQ0DHw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.clientbase.transformoptions.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.clientbase.transformoptions.html",
+          "hash": "Gw8EYvSryWdWLIICaijhQA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.configurerequest.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.configurerequest.html",
+          "hash": "7VODdgE7gDLP6g6yR2JYKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.configurerequest.moduleid.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.configurerequest.moduleid.html",
+          "hash": "GcCX5BQsSyIkMi5iCdWC0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.createitemdto._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.createitemdto._constructor_.html",
+          "hash": "JhSIvrynTbrZ3EOVvsnZUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.createitemdto.description.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.createitemdto.description.html",
+          "hash": "lJkCHk7iYmuKvIImbRhr2Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.createitemdto.fromjs.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.createitemdto.fromjs.html",
+          "hash": "BRgcENpLeULoLFpvugL26A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.createitemdto.init.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.createitemdto.init.html",
+          "hash": "blE3U1oF76XqFtooa6eStA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.createitemdto.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.createitemdto.html",
+          "hash": "vLz43anKWmN+tlcNX+fHVw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.createitemdto.name.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.createitemdto.name.html",
+          "hash": "dHT1Ur3wQosOLeekzFexUg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.createitemdto.tojson.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.createitemdto.tojson.html",
+          "hash": "/MhFVEY4JRPmH5Zd6JTdLw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.exception._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.exception._constructor_.html",
+          "hash": "6klXZnrBxQc3z+taklFtsw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.exception.fromjs.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.exception.fromjs.html",
+          "hash": "CxEe1D/euTfz1EWNQSmATA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.exception.init.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.exception.init.html",
+          "hash": "B5uleEsKpbtRcalrAV9V5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.exception.innerexception.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.exception.innerexception.html",
+          "hash": "mMv/PSFyx9GC9f8KNsdXyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.exception.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.exception.html",
+          "hash": "HBYH3ZZWXC7+pubgnEBNvQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.exception.message.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.exception.message.html",
+          "hash": "vwglGf6TGJH6HC/+BMMDYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.exception.source.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.exception.source.html",
+          "hash": "itZF+rVfBE8qWEaUHh77Ng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.exception.stacktrace.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.exception.stacktrace.html",
+          "hash": "arEtaf+KQSFj5ramW8cPZg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.exception.tojson.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.exception.tojson.html",
+          "hash": "EW6Jh5BgOa9FOfUWMRj63g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iargumentexception.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iargumentexception.html",
+          "hash": "5MTxJs9jKKP2zjtwffACvQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iargumentexception.message.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iargumentexception.message.html",
+          "hash": "jtLNH3lixeymhCo+hiVqRg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iargumentexception.paramname.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iargumentexception.paramname.html",
+          "hash": "FRgGktvxynuBtotKHI1RoQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.icreateitemdto.description.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.icreateitemdto.description.html",
+          "hash": "pguHl0DZ8BtEsPyrWj7gwg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.icreateitemdto.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.icreateitemdto.html",
+          "hash": "2C/PQJLfZXxJ8RmNv9JSjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.icreateitemdto.name.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.icreateitemdto.name.html",
+          "hash": "WWixn9xNDccRek59IQH1ag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iexception.innerexception.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iexception.innerexception.html",
+          "hash": "O1mTYqzpgkfC5PCbOajaHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iexception.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iexception.html",
+          "hash": "OZ7zqqhL9GuFv2e+IyZa9A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iexception.message.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iexception.message.html",
+          "hash": "kC9Q/jtA+qR91DkYxi9EEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iexception.source.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iexception.source.html",
+          "hash": "JPv2NiunqbrhnlSDuwYDfw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iexception.stacktrace.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iexception.stacktrace.html",
+          "hash": "2OdOFRtNIuh77JQEZVvOkQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iitemspageviewmodel.items.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iitemspageviewmodel.items.html",
+          "hash": "QrbLn72QNSUb5vEj+sMAfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iitemspageviewmodel.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iitemspageviewmodel.html",
+          "hash": "YKegHyv1HnPMffdQeYwJyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iitemspageviewmodel.page.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iitemspageviewmodel.page.html",
+          "hash": "YzdzARt8TWPbmgxRwr7DbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iitemspageviewmodel.pagecount.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iitemspageviewmodel.pagecount.html",
+          "hash": "K3dMp4q2tRts8mhfjlfl7Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iitemspageviewmodel.resultcount.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iitemspageviewmodel.resultcount.html",
+          "hash": "TwLY4us+Gx++HQ5Cod4nSQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iitemviewmodel.description.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iitemviewmodel.description.html",
+          "hash": "F2XFzW/ZlKS59gXN88fuWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iitemviewmodel.id.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iitemviewmodel.id.html",
+          "hash": "aCQ9vK16MUS2Yw/VZkPhiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iitemviewmodel.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iitemviewmodel.html",
+          "hash": "XnEZCsLZj//jr0rTLcQTFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iitemviewmodel.name.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iitemviewmodel.name.html",
+          "hash": "71NwnKwosMDm4PrIAXsjkA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.ilocalizationviewmodel.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.ilocalizationviewmodel.html",
+          "hash": "Ay1opw2/I/yO4zD7EA+Muw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.ilocalizationviewmodel.modelvalidation.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.ilocalizationviewmodel.modelvalidation.html",
+          "hash": "9YypNj+85YztHm4WTu5ViQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.ilocalizationviewmodel.ui.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.ilocalizationviewmodel.ui.html",
+          "hash": "+CRYgxGdwgtu1tMgevKq4Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.imodelvalidationinfo.idgreaterthanzero.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.imodelvalidationinfo.idgreaterthanzero.html",
+          "hash": "Ft+Gfx49Gz2xS+TN6c8N3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.imodelvalidationinfo.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.imodelvalidationinfo.html",
+          "hash": "4QUrxBw8PsCpBtVPWZti+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.imodelvalidationinfo.namerequired.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.imodelvalidationinfo.namerequired.html",
+          "hash": "omuPxSBZbHBEia22J1mu8Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.isystemexception.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.isystemexception.html",
+          "hash": "jy+vQ/hbrr8swd5sfLwmEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemclient._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemclient._constructor_.html",
+          "hash": "oaeMGC+M+qPRNKk8Ys0Rcg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemclient.createitem.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemclient.createitem.html",
+          "hash": "5M7HiRQfKgs3N4B8OakMfg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemclient.deleteitem.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemclient.deleteitem.html",
+          "hash": "xiliAtadhBqFsjliwkOCBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemclient.getitemspage.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemclient.getitemspage.html",
+          "hash": "CutkPVUAS7ITMQ9bxtCk6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemclient.jsonparsereviver.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemclient.jsonparsereviver.html",
+          "hash": "ENgxmnJi21D9NH9xjyZFJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemclient.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemclient.html",
+          "hash": "HoRJjdf6z+e9COIa/Y3xcA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemclient.processcreateitem.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemclient.processcreateitem.html",
+          "hash": "vqpG4C4PUctwmTZ6MO6wOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemclient.processdeleteitem.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemclient.processdeleteitem.html",
+          "hash": "aac9zBpXPhAnT/Z37iaacw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemclient.processgetitemspage.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemclient.processgetitemspage.html",
+          "hash": "W4zeULUKSB22XFzDprbayA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemclient.processupdateitem.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemclient.processupdateitem.html",
+          "hash": "vAFhTBTzAWfHMZn20b4URw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemclient.processusercanedit.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemclient.processusercanedit.html",
+          "hash": "BSghnih6snwktkM3NWI5HQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemclient.updateitem.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemclient.updateitem.html",
+          "hash": "cQYtuGsJReaKWfLe8LGYrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemclient.usercanedit.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemclient.usercanedit.html",
+          "hash": "aD74cK8OzXm8MSqYC4tQlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemspageviewmodel._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemspageviewmodel._constructor_.html",
+          "hash": "Hbpyf6VkCD3Id5sggQwoUA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemspageviewmodel.fromjs.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemspageviewmodel.fromjs.html",
+          "hash": "eaQ2GkVFlcHmrzHb4UXsHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemspageviewmodel.init.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemspageviewmodel.init.html",
+          "hash": "Tee0XvpiY0jcpOcnGBXQwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemspageviewmodel.items.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemspageviewmodel.items.html",
+          "hash": "+4Ox2yPTQ8wvOQqSBtig3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemspageviewmodel.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemspageviewmodel.html",
+          "hash": "vGAcNp5EotZ17MP4BKHFQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemspageviewmodel.page.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemspageviewmodel.page.html",
+          "hash": "IzjmwH3lq8B2QSfcIQHEbA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemspageviewmodel.pagecount.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemspageviewmodel.pagecount.html",
+          "hash": "070iMwe7Si1F/TxB0HFaqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemspageviewmodel.resultcount.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemspageviewmodel.resultcount.html",
+          "hash": "H6Wpw06mihCHFwFKAtcXaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemspageviewmodel.tojson.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemspageviewmodel.tojson.html",
+          "hash": "AjGxkh/2NzPKdTLbiK661g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemviewmodel._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemviewmodel._constructor_.html",
+          "hash": "G9CpKToKOlWqDD+ZT5S4ZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemviewmodel.description.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemviewmodel.description.html",
+          "hash": "PK0HsOqZeRHvJuGHFks+YA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemviewmodel.fromjs.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemviewmodel.fromjs.html",
+          "hash": "zFOwvqPEvgM6YbyZD7+fbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemviewmodel.id.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemviewmodel.id.html",
+          "hash": "tepuv+aQSV/iK3CIfvrjFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemviewmodel.init.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemviewmodel.init.html",
+          "hash": "pkXzN/WHb6swxq3m+sBGHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemviewmodel.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemviewmodel.html",
+          "hash": "/ZENWPgLrmSgXk25oRV4hA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemviewmodel.name.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemviewmodel.name.html",
+          "hash": "Wi/MjgkzVd2TUfgBz8ru+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.itemviewmodel.tojson.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.itemviewmodel.tojson.html",
+          "hash": "9XX9VMkOZBCSK0KepzDJSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iuiinfo.additem.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iuiinfo.additem.html",
+          "hash": "CBxlM/CoFUZPJdailoR8mQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iuiinfo.cancel.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iuiinfo.cancel.html",
+          "hash": "Im3BLA3Bu5ZP71DNx13cNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iuiinfo.create.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iuiinfo.create.html",
+          "hash": "Jv9HThU9xG0GbAX5TTV/qQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iuiinfo.delete.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iuiinfo.delete.html",
+          "hash": "J/V85zxMe2qeLZovxMW+rQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iuiinfo.deleteitemconfirm.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iuiinfo.deleteitemconfirm.html",
+          "hash": "jUmPY3kRb+8aRaN2kHNuZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iuiinfo.description.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iuiinfo.description.html",
+          "hash": "9Ax9F9bHGDDcGbS94ZLoaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iuiinfo.edit.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iuiinfo.edit.html",
+          "hash": "Wv/tdehRYDzRq+VsG/IbHQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iuiinfo.loadmore.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iuiinfo.loadmore.html",
+          "hash": "t96kqCwUIQHn67eNtMhjEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iuiinfo.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iuiinfo.html",
+          "hash": "4q4U/+fj//WdFiWMh0bRWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iuiinfo.name.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iuiinfo.name.html",
+          "hash": "QxTAKses+0Nsd7KqUgB5yQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iuiinfo.no.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iuiinfo.no.html",
+          "hash": "z+vwGD7ztgJ01SpsgERGJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iuiinfo.save.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iuiinfo.save.html",
+          "hash": "yXwkJqdnCpVzHiFRfd6yKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iuiinfo.searchplaceholder.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iuiinfo.searchplaceholder.html",
+          "hash": "qMYytEMwPyKZEMsuTmOwBA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iuiinfo.shownitems.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iuiinfo.shownitems.html",
+          "hash": "4h+6DIAWf3a5e33nQkHe7Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iuiinfo.yes.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iuiinfo.yes.html",
+          "hash": "LvewyD9ShNv+Es+RDCIaYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iupdateitemdto.id.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iupdateitemdto.id.html",
+          "hash": "duyMYe5vqTotrfLLiUSzKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.iupdateitemdto.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.iupdateitemdto.html",
+          "hash": "7sIYIEmDBKyk+XygyPyBsQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.localizationclient._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.localizationclient._constructor_.html",
+          "hash": "KFD6exQvdj7P11XFJGbxLg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.localizationclient.getlocalization.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.localizationclient.getlocalization.html",
+          "hash": "ohZc3nLaKP3vkzgZKluKlg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.localizationclient.jsonparsereviver.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.localizationclient.jsonparsereviver.html",
+          "hash": "H6Y7ftc3+zUdP+rr05zYPA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.localizationclient.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.localizationclient.html",
+          "hash": "T2kKbLnW/SWA9gJJBIO5yQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.localizationclient.processgetlocalization.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.localizationclient.processgetlocalization.html",
+          "hash": "0tW15/0LEEWDO0EQXdCLVA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.localizationviewmodel._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.localizationviewmodel._constructor_.html",
+          "hash": "lOSs0OINInusyLcZ3Lrryg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.localizationviewmodel.fromjs.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.localizationviewmodel.fromjs.html",
+          "hash": "R1E41fMI5V5M8bPaC2DFfg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.localizationviewmodel.init.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.localizationviewmodel.init.html",
+          "hash": "PmTeLYqkG8v6Kov2e98sTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.localizationviewmodel.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.localizationviewmodel.html",
+          "hash": "x1pl746cSbhrzHRITebKSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.localizationviewmodel.modelvalidation.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.localizationviewmodel.modelvalidation.html",
+          "hash": "IPlqx6NDvCFExKCipK6o8Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.localizationviewmodel.tojson.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.localizationviewmodel.tojson.html",
+          "hash": "Yogo759LFFlsrfzXon3rkg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.localizationviewmodel.ui.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.localizationviewmodel.ui.html",
+          "hash": "8vxv1DziBTcYm8RquqIHkw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.html",
+          "hash": "3+Pfkeh60D5y0w7wrLQY7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.modelvalidationinfo._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.modelvalidationinfo._constructor_.html",
+          "hash": "yCeuvEcxsY8P52LnABGSNw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.modelvalidationinfo.fromjs.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.modelvalidationinfo.fromjs.html",
+          "hash": "yGXEUurx3dCKpXIL0DBz8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.modelvalidationinfo.idgreaterthanzero.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.modelvalidationinfo.idgreaterthanzero.html",
+          "hash": "7iPxgfnggmRXbFjpD3nt7w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.modelvalidationinfo.init.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.modelvalidationinfo.init.html",
+          "hash": "j1MoOn3+bwIA8ytB/32wWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.modelvalidationinfo.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.modelvalidationinfo.html",
+          "hash": "m14vCaoZBzZF2yRES6t+bQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.modelvalidationinfo.namerequired.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.modelvalidationinfo.namerequired.html",
+          "hash": "L1hGDwq4mBgpcOaz3dG/rg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.modelvalidationinfo.tojson.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.modelvalidationinfo.tojson.html",
+          "hash": "huzt8N9e7fcQ/id3DmUAOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.systemexception._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.systemexception._constructor_.html",
+          "hash": "4p+Af7yfqihO13Dh/eKtrg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.systemexception.fromjs.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.systemexception.fromjs.html",
+          "hash": "E30IUZOwK3txRg2t18PcNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.systemexception.init.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.systemexception.init.html",
+          "hash": "Jn4BAkLnd8/AoQXvNWRWaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.systemexception.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.systemexception.html",
+          "hash": "XcB+stD8I4XDfCOHj5G8Dg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.systemexception.tojson.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.systemexception.tojson.html",
+          "hash": "+VlFIHunDOjDH3U3U9+KNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.uiinfo._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.uiinfo._constructor_.html",
+          "hash": "Dy4L+Gq7GcIt9O4Dl84ayA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.uiinfo.additem.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.uiinfo.additem.html",
+          "hash": "SjS2J9xebVClP4GB0U+sLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.uiinfo.cancel.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.uiinfo.cancel.html",
+          "hash": "JrPeNlCtEKV9xcKWlvPDqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.uiinfo.create.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.uiinfo.create.html",
+          "hash": "/8sndTLVYEZ4SRae3ppdxA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.uiinfo.delete.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.uiinfo.delete.html",
+          "hash": "UckEJTTjjJulhg7twZnjZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.uiinfo.deleteitemconfirm.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.uiinfo.deleteitemconfirm.html",
+          "hash": "cUs0amYEwpgs730EHE3JMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.uiinfo.description.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.uiinfo.description.html",
+          "hash": "eHvfqRyYAAHODZQPaQtNxQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.uiinfo.edit.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.uiinfo.edit.html",
+          "hash": "NiwOft+zj41MtL39a7Ixxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.uiinfo.fromjs.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.uiinfo.fromjs.html",
+          "hash": "ZEUV3CCwaYtm2XjkBX6IGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.uiinfo.init.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.uiinfo.init.html",
+          "hash": "aZMvKPUa2CZ6RPb748FzTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.uiinfo.loadmore.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.uiinfo.loadmore.html",
+          "hash": "omf5dzSGjxR0otC1orzaQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.uiinfo.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.uiinfo.html",
+          "hash": "HwkHKzl5tnW0pr7HMTH56g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.uiinfo.name.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.uiinfo.name.html",
+          "hash": "hip1Awg1b9PTm9NgvN4saQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.uiinfo.no.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.uiinfo.no.html",
+          "hash": "GGYhDnUuzpEUKhK2VwWFoQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.uiinfo.save.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.uiinfo.save.html",
+          "hash": "ioq7hk6gsx2HS4NZhISn3w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.uiinfo.searchplaceholder.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.uiinfo.searchplaceholder.html",
+          "hash": "oBabcIDvp2so2ZA88n39iw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.uiinfo.shownitems.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.uiinfo.shownitems.html",
+          "hash": "xsknrFZ5xM5YYEiUZ2nMMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.uiinfo.tojson.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.uiinfo.tojson.html",
+          "hash": "zM+LfQyx5qbo+dInPWhUAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.uiinfo.yes.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.uiinfo.yes.html",
+          "hash": "jn6qTcLim4Jr7IDtyw5Z2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.updateitemdto._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.updateitemdto._constructor_.html",
+          "hash": "QqQFzxIrlCP/B7CPvX6V2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.updateitemdto.fromjs.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.updateitemdto.fromjs.html",
+          "hash": "shdsS1rls06/ZfGpKrH3Yg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.updateitemdto.id.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.updateitemdto.id.html",
+          "hash": "MPgzGNhZnT6+EjnvRhZzGw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.updateitemdto.init.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.updateitemdto.init.html",
+          "hash": "vJ68qoxAAq58MHzdzA2B2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.updateitemdto.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.updateitemdto.html",
+          "hash": "Y+8axRp2Viq0HxNl5+Hbhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/dnn-demomodule.updateitemdto.tojson.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/dnn-demomodule.updateitemdto.tojson.html",
+          "hash": "+AtOwNxJ/DP99H/llaTyyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/index.html",
+          "hash": "x3M+SaH0DdxnVArceCPKXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "client/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/toc.html",
+          "hash": "UOnSsitL9S3vXsjqIIFkAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "components/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "components/index.html",
+          "hash": "uWI2AE7t8dGrWrdZuZejvA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "components/my-component.md",
+      "output": {
+        ".html": {
+          "relative_path": "components/my-component.html",
+          "hash": "UWIrRW1nIpb+14FJu8J6ZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "components/my-create.md",
+      "output": {
+        ".html": {
+          "relative_path": "components/my-create.html",
+          "hash": "8pbfXkw8cESY8FeTtAwyYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "components/my-edit.md",
+      "output": {
+        ".html": {
+          "relative_path": "components/my-edit.html",
+          "hash": "dT9n7X9NmPDyE5X6SLeIFw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "components/my-item-details.md",
+      "output": {
+        ".html": {
+          "relative_path": "components/my-item-details.html",
+          "hash": "6IUKjheKbO2eEXfczIKzAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "components/my-items-list.md",
+      "output": {
+        ".html": {
+          "relative_path": "components/my-items-list.html",
+          "hash": "BCtxb+0d8+WrHVnDFLQegQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "components/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "components/toc.html",
+          "hash": "cTtxrMM5YtDOIo1mlNjFkA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Package.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/Package.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/create-beta-release.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/create-beta-release.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/create-develop-branch.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/create-develop-branch.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/create-pull-request.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/create-pull-request.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/create-release.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/create-release.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/initial-commit.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/initial-commit.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/install-module.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/install-module.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "CzK6QTswAu2cngmg6gsXTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "rest/rest-api.md",
+      "output": {
+        ".html": {
+          "relative_path": "rest/rest-api.html",
+          "hash": "VH6fDqimCBukprKyx9CXvQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "rest/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "rest/toc.html",
+          "hash": "G9YMZ1tBN6dUh3wjAxz+lg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "wuLPgKTUF0GKmZeNg+oD0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 174,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 33,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
