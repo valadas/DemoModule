@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.Common.Globals.html",
-          "hash": "GowaWgQA/Y1+TzWeMQSI5g=="
+          "hash": "YkYsgz8YPDRVmxDyOPnLHw=="
         }
       },
       "is_incremental": false,
@@ -42,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.Controllers.ItemController.html",
-          "hash": "TKbA3sZVtOkBJnArxo1mJg=="
+          "hash": "goGL4wh0BG8KwlqBfvPgaA=="
         }
       },
       "is_incremental": false,
@@ -54,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.Controllers.LocalizationController.html",
-          "hash": "PXHyvFAZohLZwIR1qZvQiw=="
+          "hash": "muY5MFflO8iHPhivJkbmxg=="
         }
       },
       "is_incremental": false,
@@ -66,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.Controllers.ModuleApiController.html",
-          "hash": "X/NF1Vya74qEDz9PgQIcCQ=="
+          "hash": "uocKbN8+NlZXDIuFPFi8Ag=="
         }
       },
       "is_incremental": false,
@@ -78,7 +78,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.Controllers.ServiceRouteMapper.html",
-          "hash": "lTpgW2SiIfZcbvW2F1PN4Q=="
+          "hash": "dWekUfPZzGAvdnAe2zycmA=="
         }
       },
       "is_incremental": false,
@@ -102,7 +102,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.DTO.CreateItemDTO.html",
-          "hash": "gWc7QBtFo3dqWOEDi7ja8w=="
+          "hash": "McIWZo2X2X3w8k4sdpmSZw=="
         }
       },
       "is_incremental": false,
@@ -114,7 +114,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.DTO.GetItemsPageDTO.html",
-          "hash": "RR5cw/HxV5ErWnc6antuUQ=="
+          "hash": "ItaR39TfoMSSTnNWrpMGXQ=="
         }
       },
       "is_incremental": false,
@@ -126,7 +126,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.DTO.UpdateItemDTO.html",
-          "hash": "y3YnbGooHJjw/2TBJ2hJ3g=="
+          "hash": "U5dgXrjTHmbkPmE2+FmvuA=="
         }
       },
       "is_incremental": false,
@@ -150,7 +150,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.Data.Entities.BaseEntity.html",
-          "hash": "fkXKACP9YfOFzUVqXNc3Zg=="
+          "hash": "d2PFg+9ZjCMDIj1XKJHzYw=="
         }
       },
       "is_incremental": false,
@@ -162,7 +162,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.Data.Entities.IEntity.html",
-          "hash": "0TpW3opHmqW18QSgKfeCjg=="
+          "hash": "VHbl/kCaQV6H2IVKywoWWA=="
         }
       },
       "is_incremental": false,
@@ -174,7 +174,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.Data.Entities.Item.html",
-          "hash": "5Fpe3NF4arHJKFxPJBij8g=="
+          "hash": "Nv6sj5ZHAhU+mPlt7N0wgw=="
         }
       },
       "is_incremental": false,
@@ -198,7 +198,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.Data.ModuleDbContext.html",
-          "hash": "SX8AJPnNxI1+34XnE2wXSA=="
+          "hash": "YRgxfESETgkmzZojkZ/0kg=="
         }
       },
       "is_incremental": false,
@@ -210,7 +210,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.Data.Repositories.IRepository-1.html",
-          "hash": "H5WFhuLgnxVK2YeXYq80BA=="
+          "hash": "cUJpMMlp+aanwHx5nGUCbw=="
         }
       },
       "is_incremental": false,
@@ -222,7 +222,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.Data.Repositories.Repository-1.html",
-          "hash": "dq8c9VXrSFJHv6qMKJnQHQ=="
+          "hash": "R/PelmrzXXMgpq/boGBs4A=="
         }
       },
       "is_incremental": false,
@@ -258,7 +258,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.Services.IItemService.html",
-          "hash": "wyhfm6pBEAoPS3oCX2svhw=="
+          "hash": "Zqn8mLAaCBCsGEBtJBod4w=="
         }
       },
       "is_incremental": false,
@@ -270,7 +270,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.Services.ILocalizationService.html",
-          "hash": "5z4McwBJGcW28J1pgF0IQw=="
+          "hash": "sy87VpQQIoOXZy6tdoOADg=="
         }
       },
       "is_incremental": false,
@@ -282,7 +282,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.Services.ItemService.html",
-          "hash": "Ej2Koqtw8+n9qG1LvF5sUA=="
+          "hash": "XZJTj1X5tHNFLp2hIRx0AQ=="
         }
       },
       "is_incremental": false,
@@ -294,7 +294,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.Services.LocalizationService.html",
-          "hash": "BxuBnDI0zXXNT/DpEpu5LA=="
+          "hash": "WmejuQYjLvsvlKnc3k8fXg=="
         }
       },
       "is_incremental": false,
@@ -318,7 +318,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.Startup.html",
-          "hash": "DtZjC5sFtSUBoVsxN0hd8w=="
+          "hash": "VTNHSbeAKBEZ3Jw9qXGNsg=="
         }
       },
       "is_incremental": false,
@@ -330,7 +330,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.ViewModels.ItemViewModel.html",
-          "hash": "VpWRySvG9lt1UKroXuKmsg=="
+          "hash": "QpdiL2GjLJG7JelM+v0+uA=="
         }
       },
       "is_incremental": false,
@@ -342,7 +342,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.ViewModels.ItemsPageViewModel.html",
-          "hash": "YH5NXXsUVFRRZYSeYCmajA=="
+          "hash": "aIUrNT482vowT2uuStQ4Kw=="
         }
       },
       "is_incremental": false,
@@ -354,7 +354,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.ViewModels.LocalizationViewModel.ModelValidationInfo.html",
-          "hash": "39Ag0jEKA+nudsRBj7o/Kg=="
+          "hash": "KVaMl4lZCjtydjTc9wBuuQ=="
         }
       },
       "is_incremental": false,
@@ -366,7 +366,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.ViewModels.LocalizationViewModel.UIInfo.html",
-          "hash": "nlfePSiQwB68KoHYBi/8Ww=="
+          "hash": "KEzd56GflBmXE06OV8UhLg=="
         }
       },
       "is_incremental": false,
@@ -378,7 +378,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DnnSummit.Modules.DemoModule.ViewModels.LocalizationViewModel.html",
-          "hash": "X3kX3ODD20bPXhksTWNxAg=="
+          "hash": "919tHKLzqy/jl8VwH3bObg=="
         }
       },
       "is_incremental": false,
@@ -444,7 +444,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/git.html",
-          "hash": "deVggKsD5YT2UrxcimXWkg=="
+          "hash": "2LZsRZ9IisrhLCZPx2QUkQ=="
         }
       },
       "is_incremental": false,
@@ -2670,25 +2670,23 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": false,
-        "details": "Cannot build incrementally because last build info is missing.",
+        "can_incremental": true,
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0,
-        "full_build_reason_code": "NoAvailableBuildCache"
+        "skipped_file_count": 0
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": false,
+          "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 174,
-          "skipped_file_count": 0
+          "skipped_file_count": 173
         },
         "ManagedReferenceDocumentProcessor": {
-          "can_incremental": false,
+          "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 33,
-          "skipped_file_count": 0
+          "skipped_file_count": 9
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
